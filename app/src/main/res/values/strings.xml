@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AVStreamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="setting_title">Server Setting</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="ip">Server IP</string>
+    <string name="audio_port">Audio Port</string>
+    <string name="video_port">Video Port</string>
+
+    <string name="ip_key">ServerIP</string>
+    <string name="audio_port_key">AudioPort</string>
+    <string name="video_port_key">VideoPort</string>
+
+    <string name="preference_file_key">net.kseek.audioip.REMOTE_SERVER</string>
+</resources>
